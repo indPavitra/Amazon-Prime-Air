@@ -1,8 +1,8 @@
-## ** Amazon Prime Air: Drone Delivery Strategy Analysis**
-## Overview
+## **Amazon Prime Air: Drone Delivery Strategy Analysis**
+### Overview
 This project explores the feasibility, scalability, and strategic deployment of Amazon Prime Air, Amazon's drone-based delivery service. The study focuses on business impact, drone technology, demographic and geographic suitability, and supply chain implications—anchored in Massachusetts with emphasis on Cambridge, Worcester, and Springfield.
 
-## Tools & Technologies Used
+### Tools & Technologies Used
 Data Analysis & Visualization: Microsoft Excel, Python (Pandas, Matplotlib, Seaborn)
 Mapping & GIS: U.S. Census Bureau Data, Freemap tools
 Optimization & Forecasting: Statistical modeling, Amazon warehouse data analysis
@@ -10,7 +10,7 @@ Drone Technology: Amazon MK30 Drone
 Regulatory Compliance: FAA Regulations, Massachusetts Airspace Laws
 E-commerce Analysis: Statista, Capital One Shopping, Amazon
 
-## Dimensions Analyzed
+### Dimensions Analyzed
 #### 1. Online Business Growth
 Evaluated Amazon’s domestic & international sales trends.
 
@@ -39,7 +39,7 @@ Geographic mapping using drone speed and 15-minute delivery window.
 
 Total coverage potential: ~28% of MA residents.
 
-## Methodology
+### Methodology
 Analyzed drone-suitable product segments based on weight and bulk.
 
 Mapped demographic layers and FAA-approved zones.
@@ -48,7 +48,7 @@ Calculated delivery coverage, daily order volumes, and warehouse needs.
 
 Cited public data: US Census, FAA, Amazon annual reports, and geospatial tools.
 
-## Strategic Recommendations
+### Strategic Recommendations
 Start with rural and grow to urban areas post-evaluation.
 
 Prioritize products <5 lbs and high turnover (e.g., vitamins, books, gadgets).
@@ -57,12 +57,12 @@ Invest in public awareness to foster trust and boost adoption.
 
 Consider terrain/weather impact on drone reliability in MA.
 
-## References
+### References
 Amazon 10-K Annual Report 2023
 
 FAA Drone Operation Guidelines
 
 Census & Population Tools, FreeMapTools
 
-## Found Interesting 
+### Found Interesting 
 For further inquiries or collaboration opportunities, feel free to reach out!
